@@ -2,7 +2,7 @@
 
 A static smartphone UI mockup built with **only HTML and CSS** — no JavaScript, no frameworks. Every home-screen icon opens a real page styled to look like a working app.
 
-**Live Demo:** _add your deployed link here after deploying_
+**Live Demo:** https://classy-pothos-b0dd26.netlify.app
 
 ##  Apps
 
@@ -27,7 +27,7 @@ A static smartphone UI mockup built with **only HTML and CSS** — no JavaScript
 
 ## Running Locally
 
-Open `index.html` in any browser — no server, no build step needed. For the smoothest experience in VS Code, use the Live Server extension.
+It ha sbeen running locally as I have uploaded it to netlify to make the project live.
 
 ## Deployment
 
